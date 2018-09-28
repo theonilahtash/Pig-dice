@@ -1,11 +1,11 @@
 body {
   background-color: lavendar;
-  background-image: url()
   padding: 5em 0;
+  border:5px solid grey;
 
 }
 #pig {
-  color: red;
+  color: purple;
   font-size: 100px;
   font-weight: 400;
   text-indent: 5em;
@@ -22,7 +22,7 @@ body {
 }
 
 #max {
-color: red;
+color: purple;
 background: powderblue;
 font-weight: 400;
 text-indent: 3mm;
@@ -32,7 +32,7 @@ text-indent: 40px;
 .play {
   font-size: 30px;
   font-weight: bold;
-  background: red;
+  background: powderblue;
 }
 
 #rot {
@@ -74,5 +74,5 @@ text-indent: 40px;
 #dice {
   float: right;
   height:200px;
-  width: 250px;
+  width: 300px;
 }
