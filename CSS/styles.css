@@ -1,0 +1,78 @@
+body {
+  background-color: lavendar;
+  background-image: url()
+  padding: 5em 0;
+
+}
+#pig {
+  color: red;
+  font-size: 100px;
+  font-weight: 400;
+  text-indent: 5em;
+   background: powderblue;
+   text-align: center;
+}
+
+.overlay {
+  color: blue;
+  font-variant: small-caps;
+  background: white;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+#max {
+color: red;
+background: powderblue;
+font-weight: 400;
+text-indent: 3mm;
+text-indent: 40px;
+}
+
+.play {
+  font-size: 30px;
+  font-weight: bold;
+  background: red;
+}
+
+#rot {
+  text-decoration-color:#581845;
+  font-size: 27px;
+  background: #344cff;
+
+}
+
+#rot. h1 {
+  color: #fff;
+}
+
+#Roll-total {
+  font-size: 28px;
+  font-weight:bold;
+  background: #fff;
+
+}
+
+
+#cur {
+  background: #fff;
+  font-size: 24px;
+  font-weight: 100;
+
+}
+#roller {
+  background: black;
+  font-size: 40px;
+  font-weight:lighter;
+}
+#roll {
+  font-size: 42px;
+}
+#Hold {
+  background: powder#ff5733;
+}
+#dice {
+  float: right;
+  height:200px;
+  width: 250px;
+}
