@@ -10,7 +10,7 @@
 
 ##  How to install
 ####  Go to my Github page then use the link below, it will help you access some of the quiz questions
-####  
+####  https://theonilahtash.github.io/Pig-dice/
 ## Known bugs
 my project has no known bugs
 ###  Behavior Driven Development
