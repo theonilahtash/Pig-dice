@@ -9,7 +9,7 @@
 {It is an interesting game played by two opponents. The first opponent rolls the dice and incase it falls on a one the his turn is over and passes the dice to the next opponent}
 
 ##  How to install
-####  Go to my Github page then use the link below, it will help you access some of the quiz questions
+####  Go to my Github page then use the link below, it will help you access the pig dice game.
 ####  https://theonilahtash.github.io/Pig-dice/
 ## Known bugs
 my project has no known bugs
